@@ -3,7 +3,7 @@ Text2Text,Journal Computational Linguistics,"Yllias Chali and Sadid A. Hasan, To
 ,Workshop on Representation Learning for NLP,"Xingdi Yuan, Tong Wang, Caglar Gulcehre, Alessandro Sordoni, Philip Bachman,
 Sandeep Subramanian, Saizheng Zhang and Adam Trischler, Machine Comprehension
 by Text-to-Text Neural Question Generation, Proceedings of the 2nd Workshop on
-Representation Learning for NLP, pages 15-25,Vancouver, Canada, August 3, 2017.",2017,---,Automatic,"BLEU, NLL, F1 Score, QA, PPL",---,---,---,---,---,---,---,---
+Representation Learning for NLP, pages 15-25,Vancouver, Canada, August 3, 2017.",2017,--,Automatic,"BLEU, NLL, F1 Score, QA, PPL",---,---,---,---,---,---,---,---
 ,Annual Meeting of the Association for Computational Linguistics (ACL),"Oleg Rokhlenko and Idan Szpektor, Generating Synthetic Comparable Questions for News Articles, Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics, pages 742-751,Sofia, Bulgaria, August 4-9 2013.",2013,---,Human ,---,Eliciting quality judgment ,10,Linguistic (semantic),2,100,"Correctness, Relevance",Not reported,Not reported
 ,,"Karen Mazidi and Rodney D. Nielsen, Linguistic Considerations in Automatic Question Generation, Proceedings of the 52nd Annual Meeting of the Association for Com
 putational Linguistics (Short Papers), pages 321-326, Baltimore, Maryland, USA, June
