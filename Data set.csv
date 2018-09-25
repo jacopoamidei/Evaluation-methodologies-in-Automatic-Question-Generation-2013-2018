@@ -98,5 +98,5 @@ Georgios P. Spithourakis and Lucy Vanderwende, Image-Grounded Conversations:
 ,Annual Meeting of the Association for Computational Linguistics (ACL),"Nasrin Mostafazadeh, Ishan Misra, Jacob Devlin, Margaret Mitchell, Xiaodong He
 and Lucy Vanderwende, Generating Natural Questions About an Image, Proceedings
 of the 54th Annual Meeting of the Association for Computational Linguistics, pages 
-1802 -1813, Berlin, Germany, August 7-12, 2016.",2016,---,"Human, Automatic","BLEU, DELTA-BLEU, METEOR",Eliciting quality judgment ,3,Linguistic (semantic),3,Not reported,Overall criterion,Not reported,Not reported
+1802 -1813, Berlin, Germany, August 7-12, 2016.",2016,--,"Human, Automatic","BLEU, DELTA-BLEU, METEOR",Eliciting quality judgment ,3,Linguistic (semantic),3,Not reported,Overall criterion,Not reported,Not reported
 ,International Natural Language Generation conference (INLG),"Kushal Kafle, Mohammed Yousefhussien, and Christopher Kanan, Data Augmentation for Visual Question Answering, Proceedings of The 10th International Natural Language Generation conference, pages 198-202, Santiago de Compostela, Spain,September 4-7, 2017.",2017,---,Automatic,Accuracy,---,---,---,---,---,---,---,---
