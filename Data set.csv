@@ -3,7 +3,7 @@ Text2Text,Journal Computational Linguistics,"Yllias Chali and Sadid A. Hasan, To
 ,Workshop on Representation Learning for NLP,"Xingdi Yuan, Tong Wang, Caglar Gulcehre, Alessandro Sordoni, Philip Bachman,
 Sandeep Subramanian, Saizheng Zhang and Adam Trischler, Machine Comprehension
 by Text-to-Text Neural Question Generation, Proceedings of the 2nd Workshop on
-Representation Learning for NLP, pages 15-25,Vancouver, Canada, August 3, 2017.",2017,--,Automatic,"BLEU, NLL, F1 Score, QA, PPL",---,---,---,---,---,---,---,---
+Representation Learning for NLP, pages 15-25,Vancouver, Canada, August 3, 2017.",2017,---,Automatic,"BLEU, NLL, F1 Score, QA, PPL",---,---,---,---,---,---,---,---
 ,Annual Meeting of the Association for Computational Linguistics (ACL),"Oleg Rokhlenko and Idan Szpektor, Generating Synthetic Comparable Questions for News Articles, Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics, pages 742-751,Sofia, Bulgaria, August 4-9 2013.",2013,---,Human ,---,Eliciting quality judgment ,10,Linguistic (semantic),2,100,"Correctness, Relevance",Not reported,Not reported
 ,,"Karen Mazidi and Rodney D. Nielsen, Linguistic Considerations in Automatic Question Generation, Proceedings of the 52nd Annual Meeting of the Association for Com
 putational Linguistics (Short Papers), pages 321-326, Baltimore, Maryland, USA, June
@@ -22,19 +22,11 @@ Natural Language Generation conference, pages 133-142, Edinburgh, UK, September 
 ,,"Hugo Rodrigues, Luísa Coheur and Eric Nyberg, QGaSP: a Framework for Question Generation Based on Different Levels of Linguistic Information, Proceedings of The 9th International Natural Language Generation conference, pages 242-243, Edinburgh, UK, September 5-8, 2016.",2016,---,Human,---,Eliciting quality judgment ,2,Linguistic (semantic),3,201,Overall criterion,Cohen's k,Overall criterion = 0.67
 ,,"Karen Mazidi and Paul Tarau, Infusing NLU into Automatic Question Generation, Proceedings of The 9th International Natural Language Generation conference, pages 51-60, Edinburgh, UK, September 5-8, 2016.",2016,---,Human,---,Eliciting quality judgment ,4,Numerical,5,200,Overall criterion,Pearson,Overall criterion = 0.71
 ,,"Marta Gatius, Personalized Questions, Answers and Grammars: Aiding the Search for Relevant Web Information, Proceedings of The 10th International Natural Language Generation conference, pages 203-207, Santiago de Compostela, Spain, September 4-7, 2017.",2017,Human,---,---,---,26 and 27,---,---,Not reported,---,Not reported,Not reported
-,Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT),"Mrinmaya Sachan and Eric P. Xing, Self-Training for Jointly Learning to Ask and
- Answer Questions, Proceedings of NAACL-HLT 2018, pages 629-640, New Orleans, 
-Louisiana, June 1 - 6, 2018.",2018,---,"Human, Automatic","BLEU, METEOR, ROUGE-L",Eliciting quality judgment ,2,Numerical,5,1000,"Fluency, Correctness",Pearson,"Fluency = 0.89 , Correctness = 0.78"
-,,"Bhuwan Dhingra, Danish Pruthi and Dheeraj Rajagopal, Simple and Effective 
-Semi-Supervised Question Answering, Proceedings of NAACL-HLT 2018, pages 582-
-587, New Orleans, Louisiana, June 1 - 6, 2018.",2018,---,Automatic,F1 score,---,---,---,---,---,---,---,---
+,Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT),"Mrinmaya Sachan and Eric P. Xing, Self-Training for Jointly Learning to Ask and Answer Questions, Proceedings of NAACL-HLT 2018, pages 629-640, New Orleans, Louisiana, June 1 - 6, 2018.",2018,---,"Human, Automatic","BLEU, METEOR, ROUGE-L",Eliciting quality judgment ,2,Numerical,5,1000,"Fluency, Correctness",Pearson,"Fluency = 0.89 , Correctness = 0.78"
+,,"Bhuwan Dhingra, Danish Pruthi and Dheeraj Rajagopal, Simple and Effective Semi-Supervised Question Answering, Proceedings of NAACL-HLT 2018, pages 582-587, New Orleans, Louisiana, June 1 - 6, 2018.",2018,---,Automatic,F1 score,---,---,---,---,---,---,---,---
 ,,"Julian Michael, Gabriel Stanovsky, Luheng He, Ido Dagan and Luke Zettlemoyer,  Crowdsourcing Question-Answer Meaning Representations, Proceedings of NAACL-HLT 2018, pages 560-568 New Orleans, Louisiana, June 1 - 6, 2018.",2018,---,Automatic,"Precisio, Recall, BLEU",---,---,---,---,---,---,---,---
-,,"Linfeng Song, Zhiguo Wang, Wael Hamza, Yue Zhang and Daniel Gildea, Leveraging Context Information for Natural Question Generation, Proceedings of NAACL-
-HLT 2018, pages 569-574, New Orleans, Louisiana, June 1 - 6, 2018.",2018,Automatic,Automatic,"BLEU, METEOR, ROUGE-L",---,---,---,---,---,---,---,---
-,,"Duyu Tang, Nan Duan, Zhao Yan, Zhirui Zhang, Yibo Sun, Shujie Liu, Yuanhua
-Lv and Ming Zhou, Learning to Collaborate for Question Answering and Asking, Pro
-ceedings of NAACL-HLT 2018, pages 1564-1574, New Orleans, Louisiana, June 1 - 6,
- 2018.",2018,---,Automatic,BLEU,---,---,---,---,---,---,---,---
+,,"Linfeng Song, Zhiguo Wang, Wael Hamza, Yue Zhang and Daniel Gildea, Leveraging Context Information for Natural Question Generation, Proceedings of NAACL-HLT 2018, pages 569-574, New Orleans, Louisiana, June 1 - 6, 2018.",2018,Automatic,Automatic,"BLEU, METEOR, ROUGE-L",---,---,---,---,---,---,---,---
+,,"Duyu Tang, Nan Duan, Zhao Yan, Zhirui Zhang, Yibo Sun, Shujie Liu, YuanhuaLv and Ming Zhou, Learning to Collaborate for Question Answering and Asking, Proceedings of NAACL-HLT 2018, pages 1564-1574, New Orleans, Louisiana, June 1 - 6, 2018.",2018,---,Automatic,BLEU,---,---,---,---,---,---,---,---
 ,Workshop on Innovative Use of NLP for Building Educational Applications,"Jennifer Hill and Rahul Simha, Automatic Generation of Context-Based Fill-in-
 the-Blank Exercises Using Co-occurrence Likelihoods and Google n-grams, Proceedings
 of the 11th Workshop on Innovative Use of NLP for Building Educational Applica
@@ -42,61 +34,34 @@ tions, pages 23-30, San Diego, California, June 16, 2016.",2016,Human,---,---,--
 ,,"Michael Flor and Brian Riordan, A Semantic Role-based Approach to Open-Domain 
 Automatic Question Generation, Proceedings of the Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications, pages 254-263 New Orleans,
 Louisiana, June 5, 2018.",2018,---,Human,---,Eliciting quality judgment ,2,Numerical,5 and 4,1060,"Grammaticality, Semantic, Relevance",Cohen's k,"Grammaticality = 0.75, Semantic = 0.77, Relevance = 0.48"
-,,"Girish Kumar, Rafael E. Banchs and Luis F. D'Haro, RevUP: Automatic Gap-Fill 
-Question Generation from Educational Texts, Proceedings of the Tenth Workshop on
-Innovative Use of NLP for Building Educational Applications, 2015, pages 154-161,
-Denver, Colorado, June 4, 2015.",2015,---,"Human, Automatic","Precisio, Recall, Accuracy, F1-score",---,5,Linguistic (semantic),2,75,Discriminator quality,No reported,Not reported
-,,"Arief Yudha Satria and Takenobu Tokunaga, Evaluation of Automatically Generated Pronoun Reference Questions, Proceedings of the 12th Workshop on Innovative 
-Use of NLP for Building Educational Applications, pages 76-85, Copenhagen, Denmark, September 8, 2017.",2017,Human,Human,---,Eliciting quality judgment ,5 and 81,Linguistic (semantic),3,60,Overall criterion,"Krippendorff's alpha, Average Measure",Overall criterion = (0.05 (alpha); 0.77 (%))
-,,"Maria Chinkina and Detmar Meurers, Question Generation for Language Learning:
-From ensuring texts are read to supporting learning, Proceedings of the 12th Workshop on Innovative Use of NLP for Building Educational Applications, pages 334-344, Copenhagen, Denmark, September 8, 2017.",2017,---,Human,---,"Eliciting quality judgment,  Preference judgment  ",364,Numerical,5,69,"Well-formedness, Answerability",k measure not specified,"Well-formedness = 0.08, Answerability = 0.09"
-,Workshop associated with RANLP,"Andrey Kurtasov, A System for Generating Cloze Test Items from Russian-Language
- Text, Proceedings of the Student Research Workshop associated with RANLP 2013,
- pages 107-112, Hissar, Bulgaria, 9-11 September 2013.",2013,---,Human,---,Eliciting quality judgment ,1,Linguistic (semantic),3,Not reported,Overall criterion,Not reported,Not reported
-,Special Interest Group on Discourse and Dialogue (SIGDIAL),"Divesh Lala, Pierrick Milhorat, Koji Inoue, Masanari Ishida, Katsuya Takanashi
-and, Tatsuya Kawahara, Attentive listening system with backchanneling, response generation and 
-exible turn-taking, Proceedings of the SIGDIAL 2017 Conference, pages 
-127-136, Saarbrucken, Germany, 15-17, August 2017.",2017,Human,Human,---,Eliciting quality judgment ,2 and 8,Linguistic (semantic),3,Not reported,"Cohrence, Timing",Not reported,Not reported
+,,"Girish Kumar, Rafael E. Banchs and Luis F. D'Haro, RevUP: Automatic Gap-Fill Question Generation from Educational Texts, Proceedings of the Tenth Workshop onInnovative Use of NLP for Building Educational Applications, 2015, pages 154-161,Denver, Colorado, June 4, 2015.",2015,---,"Human, Automatic","Precisio, Recall, Accuracy, F1-score",Eliciting quality judgment ,5,Linguistic (semantic),2,75,Discriminator quality,No reported,Not reported
+,,"Arief Yudha Satria and Takenobu Tokunaga, Evaluation of Automatically Generated Pronoun Reference Questions, Proceedings of the 12th Workshop on Innovative Use of NLP for Building Educational Applications, pages 76-85, Copenhagen, Denmark, September 8, 2017.",2017,Human,Human,---,Eliciting quality judgment ,5 and 81,Linguistic (semantic),3,60,Overall criterion,"Krippendorff's alpha, Average Measure",Overall criterion = (0.05 (alpha); 0.77 (%))
+,,"Maria Chinkina and Detmar Meurers, Question Generation for Language Learning:From ensuring texts are read to supporting learning, Proceedings of the 12th Workshop on Innovative Use of NLP for Building Educational Applications, pages 334-344, Copenhagen, Denmark, September 8, 2017.",2017,---,Human,---,"Eliciting quality judgment,  Preference judgment  ",364,Numerical,5,69,"Well-formedness, Answerability",k measure not specified,"Well-formedness = 0.08, Answerability = 0.09"
+,Workshop associated with RANLP,"Andrey Kurtasov, A System for Generating Cloze Test Items from Russian-Language Text, Proceedings of the Student Research Workshop associated with RANLP 2013, pages 107-112, Hissar, Bulgaria, 9-11 September 2013.",2013,---,Human,---,Eliciting quality judgment ,1,Linguistic (semantic),3,Not reported,Overall criterion,Not reported,Not reported
+,Special Interest Group on Discourse and Dialogue (SIGDIAL),"Divesh Lala, Pierrick Milhorat, Koji Inoue, Masanari Ishida, Katsuya Takanashiand, Tatsuya Kawahara, Attentive listening system with backchanneling, response generation and exible turn-taking, Proceedings of the SIGDIAL 2017 Conference, pages 127-136, Saarbrucken, Germany, 15-17, August 2017.",2017,Human,Human,---,Eliciting quality judgment ,2 and 8,Linguistic (semantic),3,Not reported,"Cohrence, Timing",Not reported,Not reported
 ,International Conference on Computational Linguistics (COLING),"Jun Araki, Dheeraj Rajagopal, Sreecharan Sankaranarayanan, Susan Holm, Yukari
 Yamakawa and Teruko Mitamura, Generating Questions and Multiple-Choice Answers
 using Semantic Analysis of Texts, Proceedings of COLING 2016, the 26th International 
 Conference on Computational Linguistics: Technical Papers, pages 1125-1136, Osaka,
 Japan, December 11-17, 2016.",2016,---,Human,---,Eliciting quality judgment ,2,Numerical,3 and 2 and positive integer free scale,200,"Grammatical correctness, Answer existence, Inference steps, Discriminator quality",Cohen's k,"Grammatical correctness = 0.55, Answer existence = 0.58, Inference steps = 0.49"
 ,"Workshop on Natural Language Processing Techniques for Educational
-Applications (NLPTEA)","Mukta Majumder and Sujan Kumar Saha, A System for Generating Multiple Choice Questions: With a Novel Approach for Sentence Selection, Proceedings of The
- 2nd Workshop on Natural Language Processing Techniques for Educational Applica
-tions, pages 64-72, Beijing, China, July 31, 2015.",2015,---,Human,---,Eliciting quality judgment ,5,Linguistic (semantic),2,112,"Key selection accuracy, Corrected retrieval,  Discriminator quality",Not reported,Not reported
+Applications (NLPTEA)","Mukta Majumder and Sujan Kumar Saha, A System for Generating Multiple Choice Questions: With a Novel Approach for Sentence Selection, Proceedings of The 2nd Workshop on Natural Language Processing Techniques for Educational Applications, pages 64-72, Beijing, China, July 31, 2015.",2015,---,Human,---,Eliciting quality judgment ,5,Linguistic (semantic),2,112,"Key selection accuracy, Corrected retrieval,  Discriminator quality",Not reported,Not reported
 ,Conference on Empirical Methods in Natural Language Processing (EMNLP),"Luheng He, Mike Lewis and Luke Zettlemoyer, Question-Answer Driven Semantic Role
 Labeling: Using Natural Language to Annotate Natural Language, Proceedings of the
  2015 Conference on Empirical Methods in Natural Language Processing, pages 643-
 653, 2015.",2015,---,Human,---,Eliciting quality judgment ,Not reported,Linguistic (semantic),2,500,"Grammaticality, Answerability",Not reported,Not reported
-,,"Xinya Du and Claire Cardie, Identifying Where to Focus in Reading Comprehension for Neural Question Generation, Proceedings of the 2017 Conference on Empirical
- Methods in Natural Language Processing, pages 2067-2073, 2017.",2017,---,Automatic,"BLEU, METEOR",---,---,---,---,---,---,---,---
-,,"Nan Duan, Duyu Tang, Peng Chen and Ming Zhou, Question Generation for 
-Question Answering, Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pages 866-874, Copenhagen, Denmark, September 7-
-11, 2017.",2017,---,Automatic,BLEU,---,---,---,---,---,---,---,---
+,,"Xinya Du and Claire Cardie, Identifying Where to Focus in Reading Comprehension for Neural Question Generation, Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pages 2067-2073, 2017.",2017,---,Automatic,"BLEU, METEOR",---,---,---,---,---,---,---,---
+,,"Nan Duan, Duyu Tang, Peng Chen and Ming Zhou, Question Generation for Question Answering, Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pages 866-874, Copenhagen, Denmark, September 7-11, 2017.",2017,---,Automatic,BLEU,---,---,---,---,---,---,---,---
 Kb2Text,Annual Meeting of the Association for Computational Linguistics (ACL),"Iulian Vlad Serban, Alberto Garcia-Duran, Caglar Gulcehre, Sungjin Ahn, Sarath 
 Chandar, Aaron Courville and Yoshua Bengio, Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus, Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics, pages 588-598, Berlin, Germany, August 7-12, 2016.",2016,---,"Human, Automatic","BLEU, METEOR, Embedding Greedy",Preference judgment,63,---,---,Not reported,---,Fleiss' k,On three batches: 0.242; 0.234; 0.182
-,Workshop on Innovative Use of NLP for Building Educational Applications,"Katherine Stasaski and Marti Hearst, Multiple Choice Question Generation Uti
-lizing An Ontology, Proceedings of the 12th Workshop on Innovative Use of NLP for 
-Building Educational Applications, pages 303-312 Copenhagen, Denmark, September 
-8, 2017.",2017,---,Human,---,Eliciting quality judgment ,1 and 3,Numerical,7,20 and 270 (90 for each judge),Overall criterion,Not reported,Not reported
-,Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT),"Hady Elsahar, Christophe Gravier and Frederique Laforest, Zero-Shot Question 
-Generation from Knowledge Graphs for Unseen Predicates and Entity Types, Proceed-
-ings of NAACL-HLT 2018, pages 218-228, New Orleans, Louisiana, June 1 - 6, 2018.",2018,---,"Human, Automatic","BLEU, METEOR, ROUGE-L",Eliciting quality judgment ,4,Numerical,5,Not reported,"Naturalness, Predicate ideintification",Not reported,Not reported
+,Workshop on Innovative Use of NLP for Building Educational Applications,"Katherine Stasaski and Marti Hearst, Multiple Choice Question Generation Utilizing An Ontology, Proceedings of the 12th Workshop on Innovative Use of NLP for Building Educational Applications, pages 303-312 Copenhagen, Denmark, September 8, 2017.",2017,---,Human,---,Eliciting quality judgment ,1 and 3,Numerical,7,20 and 270 (90 for each judge),Overall criterion,Not reported,Not reported
+,Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT),"Hady Elsahar, Christophe Gravier and Frederique Laforest, Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and Entity Types, Proceed-ings of NAACL-HLT 2018, pages 218-228, New Orleans, Louisiana, June 1 - 6, 2018.",2018,---,"Human, Automatic","BLEU, METEOR, ROUGE-L",Eliciting quality judgment ,4,Numerical,5,Not reported,"Naturalness, Predicate ideintification",Not reported,Not reported
 ,"Conference of the European Chapter of the Association for Computational
-Linguistics (EACL)","Sathish Indurthi, Dinesh Raghu, Mitesh M. Khapra and Sachindra Joshi, Gen
-erating Natural Language Question-Answer Pairs from a Knowledge Graph Using a
- RNN Based Question Generation Model, Proceedings of the 15th Conference of the 
-European Chapter of the Association for Computational Linguistics: Volume 1, Long 
-Papers, pages 376-385, Valencia, Spain, April 3-7, 2017.",2017,Automatic,"Human, Automatic",BLUE,Eliciting quality judgment ,Not reported,Numerical,4,700,Overall criterion,Not reported,Not reported
+Linguistics (EACL)","Sathish Indurthi, Dinesh Raghu, Mitesh M. Khapra and Sachindra Joshi, Generating Natural Language Question-Answer Pairs from a Knowledge Graph Using a RNN Based Question Generation Model, Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers, pages 376-385, Valencia, Spain, April 3-7, 2017.",2017,Automatic,"Human, Automatic",BLUE,Eliciting quality judgment ,Not reported,Numerical,4,700,Overall criterion,Not reported,Not reported
 Mm2Text,International Joint Conference on Natural Language Processing (IJCNLP),"Nasrin Mostafazadeh, Chris Brockett, Bill Dolan, Michel Galley, Jianfeng Gao,
 Georgios P. Spithourakis and Lucy Vanderwende, Image-Grounded Conversations:
  Multimodal Context for Natural Question and Response Generation, Proceedings of
  the The 8th International Joint Conference on Natural Language Processing, pages 
 462-472, Taipei, Taiwan, November 27 - December 1, 2017.",2017,---,"Human, Automatic",BLEU,Eliciting quality judgment ,7,Numerical,3,Not reported,Overall criterion,Not reported,Not reported
-,Annual Meeting of the Association for Computational Linguistics (ACL),"Nasrin Mostafazadeh, Ishan Misra, Jacob Devlin, Margaret Mitchell, Xiaodong He
-and Lucy Vanderwende, Generating Natural Questions About an Image, Proceedings
-of the 54th Annual Meeting of the Association for Computational Linguistics, pages 
-1802 -1813, Berlin, Germany, August 7-12, 2016.",2016,--,"Human, Automatic","BLEU, DELTA-BLEU, METEOR",Eliciting quality judgment ,3,Linguistic (semantic),3,Not reported,Overall criterion,Not reported,Not reported
+,Annual Meeting of the Association for Computational Linguistics (ACL),"Nasrin Mostafazadeh, Ishan Misra, Jacob Devlin, Margaret Mitchell, Xiaodong Heand Lucy Vanderwende, Generating Natural Questions About an Image, Proceedingsof the 54th Annual Meeting of the Association for Computational Linguistics, pages 1802 -1813, Berlin, Germany, August 7-12, 2016.",2016,---,"Human, Automatic","BLEU, DELTA-BLEU, METEOR",Eliciting quality judgment ,3,Linguistic (semantic),3,Not reported,Overall criterion,Not reported,Not reported
 ,International Natural Language Generation conference (INLG),"Kushal Kafle, Mohammed Yousefhussien, and Christopher Kanan, Data Augmentation for Visual Question Answering, Proceedings of The 10th International Natural Language Generation conference, pages 198-202, Santiago de Compostela, Spain,September 4-7, 2017.",2017,---,Automatic,Accuracy,---,---,---,---,---,---,---,---
